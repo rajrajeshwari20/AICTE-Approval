@@ -1,0 +1,6 @@
+{
+  "name": "AikyaTrace - AICTE Approval & Compliance Platform",
+  "description": "Unified digital platform for end-to-end automation of AICTE approval workflows, stage pendency monitoring, EVC scheduling, time-bound undertakings, and document validity tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
